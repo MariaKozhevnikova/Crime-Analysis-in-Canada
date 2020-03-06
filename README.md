@@ -10,8 +10,11 @@ This report outlines all the steps I have gone through to conduct this comprehen
 
 
 To be able to conduct this analysis, I selected the following 3 datasets: 
+
 • Crime Dataset: Crime data from 1998 – 2016 in Canada (Total crime in Canada and per each province) 
+
 • Education Dataset: Government of Canada expenditure on Education from 2008 – 2015 (Education expenditure per capita and education expenditure as % of GDP) 
+
 • Population Dataset: Total estimated population from 1998 – 2016 (Total in Canada and per each province)  
 
 
